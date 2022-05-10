@@ -34,7 +34,7 @@ Talking about personal things:
 
 
 
-![Omar_Elshereif github stats](https://github-readme-stats.vercel.app/api?username=Oelshereif&show_icons=true&hide_border=true)
+! [Omar_Elshereif github stats](https://github-readme-stats.vercel.app/api?username=Oelshereif&show_icons=true&hide_border=true)
 
 
 

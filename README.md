@@ -23,7 +23,7 @@ Talking about personal things:
 - 🤔 I am looking for more experiences and hard work;
 - 💬 Ask me anything, I am happy to help;
 - ⚡️ My future project will be big and benefit the community very much.
-- 📫 How to reach me: adarshreddy9849@gmail.com;
+- 📫 How to reach me: omar.elshereif.cs@gmail.com;
 - 📝 resume
 
 **Languages and Tools:**  

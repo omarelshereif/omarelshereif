@@ -15,8 +15,6 @@
   
 **Talking about Personal Stuffs:**
 
-Talking about personal things:
-
 - 👨🏽‍💻 I am currently working on a video call project;
 - 🌱 I am currently learning ....;
 - 👯 I am looking forward to working for Google;

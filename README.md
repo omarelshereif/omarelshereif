@@ -32,6 +32,18 @@
 
 
 
+
+## 📞 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Email](mailto:your-email@example.com)
+
+
+
+
+
+
 ![Omar_Elshereif github stats](https://github-readme-stats.vercel.app/api?username=omarelshereif&show_icons=true&hide_border=true)
 
 
